@@ -11,7 +11,6 @@
 - Currently working with **Python, SQL and AWS** at BTG Pactual, building and maintaining cloud-based solutions.
 - Former teaching assistant for **Switching Theory** at EAFIT, in charge of the electronic circuits area.
 - How to reach me:
-  
   - <img alt="" width="16" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"> [samuel-daza-carvajal](https://www.linkedin.com/in/samuel-daza-carvajal-81583a289/)
   - <img alt="" width="13" src="https://yt3.googleusercontent.com/lNUIMCfhX_4YNdTbu5sYPHkGaiva1e4Wg9MGaZ0K-RF93zWUU92pGYnKjQ_wOm1AgM1zrU9OPpg=s900-c-k-c0x00ffffff-no-rj"> <sdazac@eafit.edu.co>
   - <img alt="" width="16" src="https://commons.wikimedia.org/wiki/Special:FilePath/Btg-logo-blue.svg"> samuel.daza@btgpactual.com
@@ -23,7 +22,7 @@
   <img src="https://img.shields.io/badge/39%25-Thank_You!-39C5BB?style=for-the-badge&labelColor=1a1a2e" alt="39%"/>
 </p>
 <p align="center">
-  <sub>🎧 Favorite producers: <b>Fujiwara Motoo</b> · <b>PinocchioP</b> · <b>Siinamota</b> · <b>MikitoP</b></sub>
+  <sub>🎧 Favorite producers: <b>Utsu-P</b> · <b>PinocchioP</b> · <b>Siinamota</b> · <b>Deco*27</b> · <b>Iyowa</b> · <b>MARETU</b> · <b>MIMI</b> · <b>Hachi</b> · <b>40mP</b> · <b>Wowaka</b></sub>
 </p>
 
 <br>
