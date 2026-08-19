@@ -2,6 +2,8 @@
   <img src="docs/hello.svg">
 </div>
 
+<img align="right" width="180" src="docs/miku_chibi.png" alt="Miku chibi art">
+
 - Hi!, I'm Samuel Daza Carvajal, or known as @sdazac 👋
 - Systems Engineering student (currently in professional practice) at **EAFIT University**.
 - AWS / Python / SQL Developer at **BTG Pactual**.
@@ -17,6 +19,8 @@
   - <img alt="" width="16" src="https://commons.wikimedia.org/wiki/Special:FilePath/Btg-logo-blue.svg"> samuel.daza@btgpactual.com
   - <img alt="" width="16" src="https://go-skill-icons.vercel.app/api/icons?i=gmail"> samueldazac17@gmail.com
 
+<br clear="all">
+
 <p align="center">
   <img src="https://img.shields.io/badge/初音ミク-VOCALOID_Fan-39C5BB?style=for-the-badge&labelColor=1a1a2e" alt="Hatsune Miku Fan"/>
   <img src="https://img.shields.io/badge/🎤-Project_DIVA-FF66AA?style=for-the-badge&labelColor=1a1a2e" alt="Project DIVA"/>
@@ -26,9 +30,17 @@
   <sub>🎧 Favorite producers: <b>Utsu-P</b> · <b>PinocchioP</b> · <b>Siinamota</b> · <b>Deco*27</b> · <b>Iyowa</b> · <b>MARETU</b> · <b>MIMI</b> · <b>Hachi</b> · <b>40mP</b> · <b>Wowaka</b></sub>
 </p>
 
+<p align="center">
+  <img src="docs/miku_running.gif" width="300" alt="Miku running pixel art">
+</p>
+
 <br>
 
 ## 🛠️ Tech Stack
+
+<img align="left" width="120" src="https://media.tenor.com/MybZUJEkSBcAAAAM/hatsune-miku-pixel-art.gif" alt="Miku pixel art">
+<br clear="all">
+<br>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -78,6 +90,9 @@
         <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,arduino,notion,replit,canva,googlecolab" alt="Productivity & Tools">
     </a>
 </p>
+
+<img align="right" width="150" src="docs/miku_full.png" alt="Miku full art">
+<br clear="all">
 
 <details>
   <summary align="center">
