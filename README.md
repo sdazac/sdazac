@@ -21,7 +21,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs" alt="Languages">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs,javascript,typescript" alt="Languages">
     </a>
 </p>
 
@@ -42,7 +42,7 @@
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azuredevops,terraform,git,railway" alt="DevOps & Cloud">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azuredevops,terraform,git,railway,docker" alt="DevOps & Cloud">
     </a>
 </p>
 
@@ -53,10 +53,17 @@
     </a>
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Office 365</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,arduino" alt="Tools">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,outlook,onenote,onedrive,teams,sharepoint" alt="Office 365">
+    </a>
+</p>
+
+<h3 align="center">Productivity & Tools</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,arduino,notion,replit,canva,googlecolab" alt="Productivity & Tools">
     </a>
 </p>
 
