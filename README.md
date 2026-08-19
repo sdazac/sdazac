@@ -1,4 +1,6 @@
-<h1 align="center"><font color="#39C5BB">Konnichiwa, Sekai.</font> 🥬</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39C5BB&center=true&vCenter=true&width=440&lines=Konnichiwa%2C+Sekai.;Miku%2C+Miku%2C+Beam%21;Hatsune+Miku+desu.+%F0%9F%A5%AC" alt="Typing SVG" />
+</div>
 
 - Hi!, I'm Samuel Daza Carvajal, or known as @sdazac 👋
 - Systems Engineering student (currently in professional practice) at **EAFIT University**.
@@ -69,11 +71,13 @@
 
 <details>
   <summary align="center">
-    <h3 align="center">Also exploring:</h3>
+    <h3 align="center">Also exploring 🔭</h3>
   </summary>
 
 <p align="center">
-  <b>Kiro</b> (AWS's agentic IDE) &nbsp;•&nbsp; <b>Evolution API</b> (self-hosted WhatsApp integration) &nbsp;•&nbsp; Open-source AI APIs
+  <img src="https://img.shields.io/badge/Kiro-AWS's_Agentic_IDE-FF9900?style=for-the-badge&logoColor=white" alt="Kiro"/>
+  <img src="https://img.shields.io/badge/Evolution_API-WhatsApp_Integration-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Evolution API"/>
+  <img src="https://img.shields.io/badge/Open--Source_AI-APIs-8A2BE2?style=for-the-badge&logoColor=white" alt="Open Source AI"/>
 </p>
 
 </details>
