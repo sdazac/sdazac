@@ -9,29 +9,67 @@
 - Currently working with **Python, SQL and AWS** at BTG Pactual, building and maintaining cloud-based solutions.
 - Former teaching assistant for **Switching Theory** at EAFIT, in charge of the electronic circuits area.
 - How to reach me:
-  - <img alt="" width="13" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"> [samuel-daza-carvajal](https://www.linkedin.com/in/samuel-daza-carvajal-81583a289/)
-  - <img alt="" width="13" src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20de%20la%20Universidad%20EAFIT.png"> sdazac@eafit.edu.co
-  - <img alt="" width="13" src="https://commons.wikimedia.org/wiki/Special:FilePath/Btg-logo-blue.svg"> samuel.daza@btgpactual.com
-  - <img alt="" width="13" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png"> samueldazac17@gmail.com
+  - <img alt="" width="16" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"> [samuel-daza-carvajal](https://www.linkedin.com/in/samuel-daza-carvajal-81583a289/)
+  - <img alt="" width="16" src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20de%20la%20Universidad%20EAFIT.png"> sdazac@eafit.edu.co
+  - <img alt="" width="16" src="https://commons.wikimedia.org/wiki/Special:FilePath/Btg-logo-blue.svg"> samuel.daza@btgpactual.com
+  - <img alt="" width="16" src="https://go-skill-icons.vercel.app/api/icons?i=gmail"> samueldazac17@gmail.com
 
 <br>
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<h3 align="center">Languages</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs" alt="Languages">
+    </a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h3 align="center">Databases</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,redis" alt="Databases">
+    </a>
+</p>
 
-**Frameworks & Tools**
+<h3 align="center">Software Development</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=django,react,dotnet,flutter,unity" alt="Software Development">
+    </a>
+</p>
 
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azuredevops,terraform,git,railway" alt="DevOps & Cloud">
+    </a>
+</p>
+
+<h3 align="center">AI & Automation</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini,langchain,opensource" alt="AI & Automation">
+    </a>
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,arduino" alt="Tools">
+    </a>
+</p>
+
+<details>
+  <summary align="center">
+    <h3 align="center">Also exploring:</h3>
+  </summary>
+
+<p align="center">
+  <b>Kiro</b> (AWS's agentic IDE) &nbsp;•&nbsp; <b>Evolution API</b> (self-hosted WhatsApp integration) &nbsp;•&nbsp; Open-source AI APIs
+</p>
+
+</details>
 
 <br>
 
