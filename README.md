@@ -4,7 +4,7 @@
 
 <img align="right" width="260" src="docs/miku_chibi.png" alt="Miku chibi art">
 
-- Hi!, I'm Samuel Daza Carvajal, or known as @sdazac 👋
+- Hi!, I'm Samuel Daza, or known as @sdazac 👋
 - Systems Engineering student (currently in professional practice) at **EAFIT University**.
 - AWS / Python / SQL Developer at **BTG Pactual**.
 - I'm currently interested in `Cloud Development`, `Backend Development`, `Data Engineering` and `Automation`.
