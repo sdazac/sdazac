@@ -38,7 +38,7 @@
 
 ## 🛠️ Tech Stack
 
-<img align="left" width="170" src="https://media.tenor.com/MybZUJEkSBcAAAAM/hatsune-miku-pixel-art.gif" alt="Miku pixel art">
+<img align="left" width="220" src="https://media.tenor.com/MybZUJEkSBcAAAAM/hatsune-miku-pixel-art.gif" alt="Miku pixel art">
 
 <h3 align="center">Languages</h3>
 <p align="center">
