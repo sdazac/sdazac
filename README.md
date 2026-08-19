@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39C5BB&center=true&vCenter=true&width=440&lines=Konnichiwa%2C+Sekai.;Miku%2C+Miku%2C+Beam%21;Hatsune+Miku+desu.+%F0%9F%A5%AC" alt="Typing SVG" />
+  <img src="docs/hello.svg">
 </div>
 
 - Hi!, I'm Samuel Daza Carvajal, or known as @sdazac 👋
@@ -11,6 +11,7 @@
 - Currently working with **Python, SQL and AWS** at BTG Pactual, building and maintaining cloud-based solutions.
 - Former teaching assistant for **Switching Theory** at EAFIT, in charge of the electronic circuits area.
 - How to reach me:
+  
   - <img alt="" width="16" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"> [samuel-daza-carvajal](https://www.linkedin.com/in/samuel-daza-carvajal-81583a289/)
   - <img alt="" width="13" src="https://yt3.googleusercontent.com/lNUIMCfhX_4YNdTbu5sYPHkGaiva1e4Wg9MGaZ0K-RF93zWUU92pGYnKjQ_wOm1AgM1zrU9OPpg=s900-c-k-c0x00ffffff-no-rj"> <sdazac@eafit.edu.co>
   - <img alt="" width="16" src="https://commons.wikimedia.org/wiki/Special:FilePath/Btg-logo-blue.svg"> samuel.daza@btgpactual.com
