@@ -11,11 +11,14 @@
 - Currently working with **Python, SQL and AWS** at BTG Pactual, building and maintaining cloud-based solutions.
 - Former teaching assistant for **Switching Theory** at EAFIT, in charge of the electronic circuits area.
 - How to reach me:
-  
   - <img alt="" width="16" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"> [samuel-daza-carvajal](https://www.linkedin.com/in/samuel-daza-carvajal-81583a289/)
   - <img alt="" width="13" src="https://yt3.googleusercontent.com/lNUIMCfhX_4YNdTbu5sYPHkGaiva1e4Wg9MGaZ0K-RF93zWUU92pGYnKjQ_wOm1AgM1zrU9OPpg=s900-c-k-c0x00ffffff-no-rj"> <sdazac@eafit.edu.co>
   - <img alt="" width="16" src="https://commons.wikimedia.org/wiki/Special:FilePath/Btg-logo-blue.svg"> samuel.daza@btgpactual.com
   - <img alt="" width="16" src="https://go-skill-icons.vercel.app/api/icons?i=gmail"> samueldazac17@gmail.com
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎶_VOCALOID-Hatsune_Miku_Fan-39C5BB?style=for-the-badge&labelColor=1a1a1a" alt="Vocaloid & Hatsune Miku Fan"/>
+</p>
 
 <br>
 
