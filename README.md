@@ -38,56 +38,56 @@
 
 ## 🛠️ Tech Stack
 
-<img align="left" width="200" src="https://media.tenor.com/MybZUJEkSBcAAAAM/hatsune-miku-pixel-art.gif" alt="Miku pixel art">
-<br clear="all">
-<br><br><br>
+<img align="left" width="140" src="https://media.tenor.com/MybZUJEkSBcAAAAM/hatsune-miku-pixel-art.gif" alt="Miku pixel art">
 
 <h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img width="75%" src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs,javascript,typescript" alt="Languages">
+        <img width="45%" src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs,javascript,typescript" alt="Languages">
     </a>
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img width="30%" src="https://go-skill-icons.vercel.app/api/icons?i=mysql,redis" alt="Databases">
+        <img width="18%" src="https://go-skill-icons.vercel.app/api/icons?i=mysql,redis" alt="Databases">
     </a>
 </p>
+
+<br clear="all">
 
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img width="60%" src="https://go-skill-icons.vercel.app/api/icons?i=django,react,dotnet,flutter,unity" alt="Software Development">
+        <img width="40%" src="https://go-skill-icons.vercel.app/api/icons?i=django,react,dotnet,flutter,unity" alt="Software Development">
     </a>
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img width="70%" src="https://go-skill-icons.vercel.app/api/icons?i=aws,azuredevops,terraform,git,railway,docker" alt="DevOps & Cloud">
+        <img width="45%" src="https://go-skill-icons.vercel.app/api/icons?i=aws,azuredevops,terraform,git,railway,docker" alt="DevOps & Cloud">
     </a>
 </p>
 
 <h3 align="center">AI & Automation</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img width="40%" src="https://go-skill-icons.vercel.app/api/icons?i=gemini,langchain,opensource" alt="AI & Automation">
+        <img width="25%" src="https://go-skill-icons.vercel.app/api/icons?i=gemini,langchain,opensource" alt="AI & Automation">
     </a>
 </p>
 
 <h3 align="center">Office 365</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img width="90%" src="https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,outlook,onenote,onedrive,teams,sharepoint" alt="Office 365">
+        <img width="55%" src="https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,outlook,onenote,onedrive,teams,sharepoint" alt="Office 365">
     </a>
 </p>
 
 <h3 align="center">Productivity & Tools</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img width="70%" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,arduino,notion,replit,canva,googlecolab" alt="Productivity & Tools">
+        <img width="45%" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,arduino,notion,replit,canva,googlecolab" alt="Productivity & Tools">
     </a>
 </p>
 
