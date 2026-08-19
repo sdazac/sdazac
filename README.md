@@ -2,7 +2,7 @@
   <img src="docs/hello.svg">
 </div>
 
-<img align="right" width="180" src="docs/miku_chibi.png" alt="Miku chibi art">
+<img align="right" width="260" src="docs/miku_chibi.png" alt="Miku chibi art">
 
 - Hi!, I'm Samuel Daza Carvajal, or known as @sdazac 👋
 - Systems Engineering student (currently in professional practice) at **EAFIT University**.
@@ -13,6 +13,7 @@
 - Currently working with **Python, SQL and AWS** at BTG Pactual, building and maintaining cloud-based solutions.
 - Former teaching assistant for **Switching Theory** at EAFIT, in charge of the electronic circuits area.
 - How to reach me:
+  
   - <img alt="" width="16" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"> [samuel-daza-carvajal](https://www.linkedin.com/in/samuel-daza-carvajal-81583a289/)
   - <img alt="" width="13" src="https://yt3.googleusercontent.com/lNUIMCfhX_4YNdTbu5sYPHkGaiva1e4Wg9MGaZ0K-RF93zWUU92pGYnKjQ_wOm1AgM1zrU9OPpg=s900-c-k-c0x00ffffff-no-rj"> <sdazac@eafit.edu.co>
   - <img alt="" width="16" src="https://commons.wikimedia.org/wiki/Special:FilePath/Btg-logo-blue.svg"> samuel.daza@btgpactual.com
@@ -30,67 +31,67 @@
 </p>
 
 <p align="center">
-  <img src="docs/miku_running.gif" width="300" alt="Miku running pixel art">
+  <img src="docs/miku_running.gif" width="420" alt="Miku running pixel art">
 </p>
 
 <br>
 
 ## 🛠️ Tech Stack
 
-<img align="left" width="120" src="https://media.tenor.com/MybZUJEkSBcAAAAM/hatsune-miku-pixel-art.gif" alt="Miku pixel art">
+<img align="left" width="200" src="https://media.tenor.com/MybZUJEkSBcAAAAM/hatsune-miku-pixel-art.gif" alt="Miku pixel art">
 <br clear="all">
-<br>
+<br><br><br>
 
 <h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs,javascript,typescript" alt="Languages">
+        <img width="75%" src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,cs,javascript,typescript" alt="Languages">
     </a>
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,redis" alt="Databases">
+        <img width="30%" src="https://go-skill-icons.vercel.app/api/icons?i=mysql,redis" alt="Databases">
     </a>
 </p>
 
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=django,react,dotnet,flutter,unity" alt="Software Development">
+        <img width="60%" src="https://go-skill-icons.vercel.app/api/icons?i=django,react,dotnet,flutter,unity" alt="Software Development">
     </a>
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azuredevops,terraform,git,railway,docker" alt="DevOps & Cloud">
+        <img width="70%" src="https://go-skill-icons.vercel.app/api/icons?i=aws,azuredevops,terraform,git,railway,docker" alt="DevOps & Cloud">
     </a>
 </p>
 
 <h3 align="center">AI & Automation</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini,langchain,opensource" alt="AI & Automation">
+        <img width="40%" src="https://go-skill-icons.vercel.app/api/icons?i=gemini,langchain,opensource" alt="AI & Automation">
     </a>
 </p>
 
 <h3 align="center">Office 365</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,outlook,onenote,onedrive,teams,sharepoint" alt="Office 365">
+        <img width="90%" src="https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,outlook,onenote,onedrive,teams,sharepoint" alt="Office 365">
     </a>
 </p>
 
 <h3 align="center">Productivity & Tools</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,arduino,notion,replit,canva,googlecolab" alt="Productivity & Tools">
+        <img width="70%" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,arduino,notion,replit,canva,googlecolab" alt="Productivity & Tools">
     </a>
 </p>
 
-<img align="right" width="150" src="docs/miku_full.png" alt="Miku full art">
+<img align="right" width="220" src="docs/miku_full.png" alt="Miku full art">
 <br clear="all">
 
 <details>
